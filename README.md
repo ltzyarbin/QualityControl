@@ -45,7 +45,7 @@
 - **Python** 3.13
 - **Flask** (веб-фреймворк)
 - **SQLAlchemy** (ORM)
-- **SQLite** (база данных, легко мигрируется на PostgreSQL)
+- **PostgreSQL** (база данных)
 - **python-telegram-bot** (интеграция с Telegram)
 
 ## 📁 Структура проекта
